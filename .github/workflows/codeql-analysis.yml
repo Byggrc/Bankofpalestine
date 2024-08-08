@@ -1,5 +1,5 @@
 name: CodeQL Analysis
-
+rans-on: ubuntu-latest
 on:
   push:
   pull_request:
